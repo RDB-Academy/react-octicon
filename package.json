@@ -1,6 +1,6 @@
 {
   "name": "rdb-academy-octicon",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "A GitHub Octicons icon React component",
   "main": "./lib/index.js",
   "scripts": {
