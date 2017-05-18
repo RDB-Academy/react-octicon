@@ -1,5 +1,5 @@
 {
-  "name": "react-octicon",
+  "name": "rdb-academy-octicon",
   "version": "3.0.0",
   "description": "A GitHub Octicons icon React component",
   "main": "./lib/index.js",
@@ -30,7 +30,7 @@
   "homepage": "https://github.com/insin/react-octicon",
   "dependencies": {
     "octicons": "^3.1.0",
-    "prop-types": "^15.5.10"
+    "prop-types": "^15.5.10",
   },
   "peerDependencies": {
     "react": ">=0.13.0"
