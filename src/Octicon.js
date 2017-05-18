@@ -1,7 +1,7 @@
 require('../css/Octicon.css')
 
-import React, { Component } from 'react';
-import PropTypes from 'prop-types';
+import React, { Component } from 'react'
+import PropTypes from 'prop-types'
 
 class Octicon extends Component {
   static propTypes = {
@@ -29,4 +29,4 @@ class Octicon extends Component {
   }
 }
 
-export default Octicon;
+export default Octicon
