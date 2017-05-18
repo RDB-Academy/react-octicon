@@ -1,7 +1,7 @@
 module.exports = {
   type: 'react-component',
   babel: {
-    loose: 'all'
+    loose: true
   },
   umd: false
 }
